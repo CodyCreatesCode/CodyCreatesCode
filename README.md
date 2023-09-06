@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.canva.com/design/DAFttB1T2YM/wQXTJTjjoAGe8Y7ku01HuA/edit?utm_content=DAFttB1T2YM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" width="100"/>
+</div>
+
 <!--
 **CodyCreatesCode/CodyCreatesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
