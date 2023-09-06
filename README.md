@@ -16,9 +16,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=CodyCreatesCode&style=flat-square&color=blue" alt=""/>
 
-</div>
-
-<br/>
+</div>  
 
 <!-- About Me -->
 <div align="center">
